@@ -1,0 +1,14 @@
+# imagem base do Python
+FROM python:3.9
+
+# Define o diretório de trabalho no contêiner
+WORKDIR /app
+
+# Copia os arquivos necessários para o contêiner
+COPY regression.py /app/regression.py
+
+# Instala as dependências
+RUN pip install numpy scikit-learn matplotlib
+
+# Comando padrão a ser executado quando o contêiner for iniciado
+CMD ["python", "/app/regression.py"]
