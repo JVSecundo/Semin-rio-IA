@@ -1,3 +1,5 @@
+**Link da documentação do Projeto**: (https://docs.google.com/document/d/1rZMnBeNZ72xDyNDxvRO-Cnr1U8oyBxgGzhtggWIzatE/edit?usp=sharing ) 
+
 # Seminário Inteligência Artificial na Gestão de Serviços de Redes de Computadores
 
 ## Implementação Prática
