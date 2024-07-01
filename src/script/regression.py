@@ -8,7 +8,7 @@ import numpy as np
 from sklearn.linear_model import LinearRegression
 
 # função run_regression define um exemplo de dados para realizar uma regressão linear, X é uma matriz NumPy com quatro linhas e duas colunas, 
-# representando dados de entrada que é otráfego de rede, y é um array NumPy com os valores alvo, representando o consumo de energia correspondente
+# representando dados de entrada que é otráfego de rede, y é um array NumPy com os valores alvo, representando o consumo de energia correspondente 
 
 def run_regression():
 

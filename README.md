@@ -54,6 +54,8 @@ Cada script produzirá saídas diferentes:
 
 Ao executar **plot_results.py**, ele deve exibir um gráfico de barras usando matplotlib mostrando a comparação antes e depois da otimização de energia.
 
+![Resultados, antes e depois](src/img/Resultados_IA_Energia.webp)
+
 ## Observações Adicionais
 
 Certifique-se de que todos os caminhos de arquivo e importações estão corretos nos seus scripts.
